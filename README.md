@@ -9,5 +9,5 @@
 #
 Пример работы программы после выполнения скрипта:
 #
-<br>
+
 ![5d9K7Z7ln4U](https://user-images.githubusercontent.com/80622273/176670140-9efcd379-b853-4fbe-b5b8-da578a313cb1.jpg)
